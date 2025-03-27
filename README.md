@@ -1,1 +1,1 @@
-This is an amazon clone webpage made usinghtml and css.
+This is an amazon clone webpage made using html and css.
